@@ -1,0 +1,304 @@
+Sex,ChestPain,FastingBS,ExerciseAngina,HeartDisease
+Male,Typical Angina,High,No,No
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Non-anginal Pain,Normal,No,No
+Female,Atypical Angina,Normal,No,No
+Male,Atypical Angina,Normal,No,No
+Female,Asymptomatic,Normal,No,Yes
+Female,Asymptomatic,Normal,Yes,No
+Male,Asymptomatic,Normal,No,Yes
+Male,Asymptomatic,High,Yes,Yes
+Male,Asymptomatic,Normal,No,No
+Female,Atypical Angina,Normal,No,No
+Male,Non-anginal Pain,High,Yes,Yes
+Male,Atypical Angina,Normal,No,No
+Male,Non-anginal Pain,High,No,No
+Male,Non-anginal Pain,Normal,No,No
+Male,Atypical Angina,Normal,No,Yes
+Male,Asymptomatic,Normal,No,No
+Female,Non-anginal Pain,Normal,No,No
+Male,Atypical Angina,Normal,No,No
+Male,Typical Angina,Normal,Yes,No
+Female,Typical Angina,High,No,No
+Male,Atypical Angina,Normal,No,Yes
+Male,Non-anginal Pain,Normal,No,Yes
+Male,Asymptomatic,Normal,Yes,Yes
+Female,Non-anginal Pain,Normal,No,No
+Female,Non-anginal Pain,Normal,No,No
+Female,Typical Angina,Normal,No,No
+Male,Asymptomatic,Normal,No,No
+Male,Asymptomatic,Normal,Yes,Yes
+Female,Typical Angina,Normal,No,No
+Male,Asymptomatic,High,Yes,Yes
+Male,Non-anginal Pain,Normal,No,Yes
+Male,Asymptomatic,Normal,No,No
+Male,Non-anginal Pain,Normal,Yes,No
+Male,Asymptomatic,Normal,No,No
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Non-anginal Pain,High,Yes,No
+Female,Asymptomatic,Normal,No,Yes
+Male,Typical Angina,Normal,Yes,No
+Female,Atypical Angina,Normal,No,No
+Male,Non-anginal Pain,High,No,No
+Female,Asymptomatic,Normal,No,Yes
+Male,Non-anginal Pain,Normal,No,Yes
+Male,Non-anginal Pain,Normal,No,No
+Male,Asymptomatic,Normal,No,Yes
+Female,Non-anginal Pain,High,No,No
+Male,Non-anginal Pain,High,No,No
+Female,Atypical Angina,Normal,No,No
+Male,Asymptomatic,Normal,No,No
+Male,Asymptomatic,Normal,No,Yes
+Male,Atypical Angina,Normal,No,No
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Non-anginal Pain,Normal,No,Yes
+Male,Asymptomatic,Normal,No,Yes
+Male,Non-anginal Pain,Normal,No,No
+Male,Typical Angina,Normal,Yes,No
+Female,Asymptomatic,Normal,Yes,Yes
+Female,Non-anginal Pain,Normal,Yes,No
+Male,Asymptomatic,Normal,Yes,Yes
+Female,Non-anginal Pain,High,No,No
+Male,Asymptomatic,Normal,No,Yes
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Non-anginal Pain,Normal,No,Yes
+Male,Non-anginal Pain,Normal,No,No
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Non-anginal Pain,Normal,No,Yes
+Female,Non-anginal Pain,Normal,No,No
+Male,Asymptomatic,High,No,Yes
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Asymptomatic,Normal,No,Yes
+Male,Asymptomatic,Normal,No,Yes
+Female,Non-anginal Pain,Normal,No,No
+Male,Asymptomatic,Normal,Yes,Yes
+Female,Non-anginal Pain,Normal,No,No
+Male,Atypical Angina,Normal,No,No
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Asymptomatic,Normal,Yes,No
+Female,Asymptomatic,Normal,No,No
+Male,Non-anginal Pain,Normal,No,No
+Male,Non-anginal Pain,High,Yes,Yes
+Male,Atypical Angina,Normal,No,No
+Male,Non-anginal Pain,Normal,No,No
+Male,Non-anginal Pain,Normal,No,No
+Female,Non-anginal Pain,Normal,No,No
+Female,Asymptomatic,Normal,No,No
+Female,Non-anginal Pain,Normal,No,No
+Male,Asymptomatic,Normal,No,No
+Female,Asymptomatic,Normal,No,Yes
+Male,Non-anginal Pain,Normal,No,No
+Female,Non-anginal Pain,Normal,No,No
+Female,Non-anginal Pain,Normal,No,No
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Asymptomatic,Normal,Yes,Yes
+Female,Asymptomatic,Normal,No,Yes
+Male,Atypical Angina,Normal,No,No
+Male,Asymptomatic,Normal,No,No
+Male,Asymptomatic,Normal,No,No
+Male,Typical Angina,Normal,No,No
+Female,Asymptomatic,Normal,No,No
+Female,Non-anginal Pain,High,No,No
+Male,Non-anginal Pain,Normal,No,Yes
+Male,Atypical Angina,Normal,No,No
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Non-anginal Pain,Normal,No,Yes
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Asymptomatic,Normal,No,Yes
+Female,Asymptomatic,Normal,Yes,Yes
+Male,Asymptomatic,High,Yes,Yes
+Male,Typical Angina,Normal,No,No
+Female,Asymptomatic,High,Yes,Yes
+Female,Non-anginal Pain,Normal,No,Yes
+Male,Atypical Angina,Normal,No,No
+Male,Non-anginal Pain,High,No,No
+Female,Asymptomatic,Normal,No,No
+Male,Asymptomatic,High,Yes,Yes
+Male,Asymptomatic,Normal,No,Yes
+Male,Asymptomatic,High,Yes,Yes
+Female,Asymptomatic,Normal,No,Yes
+Male,Non-anginal Pain,Normal,Yes,No
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Typical Angina,High,No,Yes
+Female,Atypical Angina,Normal,No,No
+Female,Asymptomatic,High,Yes,Yes
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Atypical Angina,Normal,No,No
+Female,Asymptomatic,Normal,No,No
+Male,Non-anginal Pain,Normal,No,No
+Male,Non-anginal Pain,Normal,Yes,No
+Male,Atypical Angina,Normal,No,No
+Male,Asymptomatic,Normal,Yes,No
+Female,Non-anginal Pain,Normal,No,No
+Female,Atypical Angina,Normal,No,No
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Atypical Angina,Normal,No,Yes
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Non-anginal Pain,High,No,No
+Male,Atypical Angina,Normal,Yes,No
+Male,Typical Angina,Normal,No,Yes
+Male,Atypical Angina,High,No,No
+Male,Non-anginal Pain,Normal,Yes,Yes
+Male,Non-anginal Pain,Normal,Yes,No
+Male,Non-anginal Pain,Normal,No,Yes
+Male,Asymptomatic,High,No,Yes
+Male,Non-anginal Pain,Normal,No,No
+Male,Atypical Angina,Normal,No,No
+Female,Non-anginal Pain,Normal,No,No
+Male,Typical Angina,High,No,No
+Female,Asymptomatic,Normal,No,No
+Female,Non-anginal Pain,Normal,No,No
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Asymptomatic,Normal,No,Yes
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Asymptomatic,Normal,No,Yes
+Male,Asymptomatic,Normal,No,Yes
+Male,Non-anginal Pain,Normal,No,No
+Male,Atypical Angina,High,No,No
+Male,Asymptomatic,Normal,Yes,Yes
+Female,Non-anginal Pain,Normal,No,No
+Female,Asymptomatic,Normal,No,No
+Male,Non-anginal Pain,High,No,No
+Male,Asymptomatic,Normal,Yes,No
+Male,Non-anginal Pain,Normal,No,No
+Female,Atypical Angina,High,Yes,No
+Male,Asymptomatic,Normal,Yes,Yes
+Female,Atypical Angina,Normal,No,No
+Male,Non-anginal Pain,Normal,Yes,Yes
+Male,Asymptomatic,Normal,Yes,No
+Female,Asymptomatic,Normal,Yes,Yes
+Female,Asymptomatic,Normal,No,No
+Male,Asymptomatic,Normal,No,Yes
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Asymptomatic,High,No,No
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Non-anginal Pain,Normal,No,No
+Male,Non-anginal Pain,High,No,No
+Male,Asymptomatic,Normal,No,Yes
+Female,Asymptomatic,Normal,Yes,Yes
+Male,Typical Angina,Normal,No,No
+Male,Typical Angina,Normal,No,No
+Female,Asymptomatic,Normal,No,Yes
+Female,Atypical Angina,Normal,No,No
+Male,Non-anginal Pain,High,No,No
+Male,Atypical Angina,Normal,Yes,Yes
+Male,Atypical Angina,Normal,No,Yes
+Male,Non-anginal Pain,Normal,No,Yes
+Male,Non-anginal Pain,Normal,No,No
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Asymptomatic,High,Yes,Yes
+Female,Asymptomatic,High,No,Yes
+Female,Non-anginal Pain,Normal,No,No
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Typical Angina,High,No,No
+Female,Asymptomatic,Normal,Yes,No
+Female,Atypical Angina,Normal,No,No
+Male,Typical Angina,Normal,No,Yes
+Female,Asymptomatic,Normal,No,No
+Female,Asymptomatic,Normal,Yes,No
+Male,Non-anginal Pain,High,No,No
+Female,Non-anginal Pain,Normal,No,No
+Male,Asymptomatic,Normal,No,No
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Atypical Angina,Normal,No,No
+Female,Asymptomatic,Normal,Yes,Yes
+Female,Non-anginal Pain,Normal,No,No
+Male,Typical Angina,Normal,Yes,Yes
+Male,Non-anginal Pain,Normal,No,No
+Female,Asymptomatic,High,Yes,Yes
+Male,Asymptomatic,Normal,No,Yes
+Male,Typical Angina,Normal,No,No
+Female,Atypical Angina,Normal,No,No
+Female,Asymptomatic,Normal,Yes,No
+Female,Asymptomatic,Normal,No,No
+Male,Asymptomatic,Normal,No,No
+Female,Non-anginal Pain,Normal,Yes,No
+Female,Non-anginal Pain,Normal,No,No
+Female,Non-anginal Pain,Normal,No,No
+Male,Asymptomatic,Normal,Yes,Yes
+Female,Asymptomatic,Normal,Yes,Yes
+Female,Atypical Angina,Normal,No,No
+Male,Asymptomatic,Normal,No,No
+Female,Non-anginal Pain,Normal,No,No
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Asymptomatic,Normal,Yes,Yes
+Female,Non-anginal Pain,Normal,No,No
+Female,Asymptomatic,Normal,Yes,Yes
+Male,Non-anginal Pain,Normal,No,Yes
+Female,Atypical Angina,Normal,Yes,No
+Female,Non-anginal Pain,Normal,No,No
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Asymptomatic,High,Yes,Yes
+Male,Asymptomatic,Normal,No,Yes
+Female,Atypical Angina,Normal,No,No
+Male,Atypical Angina,Normal,No,No
+Male,Atypical Angina,Normal,No,No
+Female,Atypical Angina,Normal,No,No
+Female,Asymptomatic,Normal,No,No
+Male,Typical Angina,Normal,No,Yes
+Female,Non-anginal Pain,High,No,No
+Male,Asymptomatic,Normal,No,Yes
+Male,Asymptomatic,Normal,No,Yes
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Asymptomatic,Normal,No,Yes
+Male,Atypical Angina,High,No,No
+Male,Asymptomatic,Normal,Yes,No
+Male,Asymptomatic,Normal,No,Yes
+Male,Asymptomatic,Normal,Yes,No
+Female,Non-anginal Pain,Normal,No,No
+Male,Asymptomatic,Normal,No,No
+Female,Non-anginal Pain,Normal,No,No
+Female,Asymptomatic,Normal,No,No
+Female,Non-anginal Pain,Normal,No,No
+Male,Atypical Angina,Normal,No,No
+Male,Atypical Angina,Normal,No,Yes
+Female,Non-anginal Pain,Normal,No,No
+Female,Atypical Angina,High,No,Yes
+Female,Typical Angina,Normal,No,No
+Male,Non-anginal Pain,Normal,No,No
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Asymptomatic,High,Yes,Yes
+Male,Non-anginal Pain,High,No,Yes
+Male,Asymptomatic,Normal,No,Yes
+Male,Non-anginal Pain,Normal,No,No
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Asymptomatic,Normal,No,No
+Male,Asymptomatic,Normal,Yes,Yes
+Female,Asymptomatic,Normal,No,No
+Male,Typical Angina,Normal,No,Yes
+Male,Typical Angina,Normal,No,No
+Female,Non-anginal Pain,Normal,No,No
+Female,Non-anginal Pain,Normal,No,No
+Male,Atypical Angina,Normal,No,Yes
+Female,Asymptomatic,Normal,No,No
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Non-anginal Pain,Normal,No,No
+Female,Asymptomatic,Normal,Yes,Yes
+Male,Atypical Angina,Normal,No,No
+Male,Asymptomatic,Normal,No,Yes
+Male,Asymptomatic,Normal,No,Yes
+Female,Asymptomatic,High,Yes,Yes
+Male,Atypical Angina,Normal,No,No
+Male,Atypical Angina,Normal,No,No
+Male,Atypical Angina,Normal,No,No
+Male,Non-anginal Pain,Normal,No,Yes
+Female,Atypical Angina,Normal,No,No
+Male,Asymptomatic,Normal,Yes,Yes
+Male,Asymptomatic,Normal,Yes,Yes
+Female,Asymptomatic,Normal,Yes,Yes
+Male,Atypical Angina,Normal,No,No
+Male,Asymptomatic,High,No,Yes
+Female,Asymptomatic,Normal,Yes,Yes
+Male,Typical Angina,Normal,No,Yes
+Male,Asymptomatic,High,No,Yes
+Male,Asymptomatic,Normal,Yes,Yes
+Female,Atypical Angina,Normal,No,Yes
+Male,Non-anginal Pain,Normal,No,No
